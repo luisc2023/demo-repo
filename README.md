@@ -1,2 +1,2 @@
-# Mi primer README
-Mi primer repositorio de prueba con GitHub
+# Repositorio README.md
+Repositorio de mi primer proyecto con GitHub
