@@ -10,3 +10,11 @@ Python3
 # Databases
 Relational Databases
 No Relational Databases
+
+# Devops Technology
+Git and GitHub
+Docker
+Kubernetes
+Jenkins
+Linux
+Puppet
