@@ -1,0 +1,4 @@
+# Statics Languages
+HTML
+CSS
+JAVASCRIPT
